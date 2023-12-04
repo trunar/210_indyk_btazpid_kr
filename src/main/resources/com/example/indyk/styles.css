@@ -1,0 +1,18 @@
+.button{
+    -fx-background-color: #59ff00;
+    -fx-border-radius: 50px;
+    -fx-border-width: 0px;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #330050;
+    -fx-cursor: hand;
+
+}
+.button:hover {
+    -fx-background-color: #F11A7B;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+.keychanger{
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+}
